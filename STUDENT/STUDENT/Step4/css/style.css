@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+}
+div{
+    border-top: 5px solid orange;
+    margin-top: 10p;
+    padding: 10px;
+    background: white;
+    
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+strong{
+    color: green;
+}
+u{
+    color: orange;
+}
